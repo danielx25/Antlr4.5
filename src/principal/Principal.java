@@ -14,7 +14,7 @@ public class Principal
 {
 	public static void main(String[] args) throws IOException
 	{
-		System.out.println("Analisis lexico y sintactico");
+		System.out.println("Analisis lexico y aaaaaaaaaaaasintactico");
 		
 		//ANTLRInputStream archivoEntrada = new ANTLRInputStream("objeto casa{} funcion orbita(velocidad){} regla casa {}");
 		ANTLRInputStream archivoEntrada =new ANTLRFileStream("/home/carlos/Documentos/Colegio/2015/Teoría de autómata y lenguajes formales/Proyecto/Sim 2D/test/perro_y_gato.sm2d");
